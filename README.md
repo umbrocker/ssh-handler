@@ -2,7 +2,7 @@
 # This is a work still in progress!
 
 ## Requirements
-`fzf` 
+`fzf`<br> 
 [https://github.com/junegunn/fzf](https://github.com/junegunn/fzf)
 
 ## Your ~/.ssh/config should look like this
