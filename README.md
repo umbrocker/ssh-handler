@@ -2,14 +2,15 @@
 # This is a work still in progress!
 
 ## Requirements
-`fzf` [https://github.com/junegunn/fzf](https://github.com/junegunn/fzf)
+`fzf` 
+[https://github.com/junegunn/fzf](https://github.com/junegunn/fzf)
 
 ## Your ~/.ssh/config should look like this
 ```shell
 Host yourhostname # description for your host
     HostName [domain/IP address]
     User [username]
-    IdentityFile [your ssh key's path] # this is optional
+    IdentityFile [your ssh key path] # this is optional
 ```
 
 ## Example
